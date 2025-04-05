@@ -1,0 +1,15 @@
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.deps.json
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.dll
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.pdb
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfo.cs
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentA.BCA95842.Up2Date
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.dll
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\refint\StudentAPIBusinessLayer.dll
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.pdb
+C:\Users\zakar\source\repos\StudentAPIBusinessLayer\obj\Debug\net8.0\ref\StudentAPIBusinessLayer.dll
